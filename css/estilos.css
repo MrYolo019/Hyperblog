@@ -1,8 +1,12 @@
 body
 {
+<<<<<<< HEAD
 color: black;
+=======
+color: rgb(20, 19, 19);
+>>>>>>> footer
 text-align: left;
-font-family: Arial;
+font-family: Helvetica;
 font size: 16px;
 margin: 0;
 padding: 0;
@@ -12,26 +16,22 @@ padding: 0;
 {
     width: 75%;
     padding: 1em;
-    text-align: right;
-    border: 1px solid black;
+    text-align: center;
+    border: 5px solid rgb(30, 0, 79);
     margin: 0 auto;
 }
 
 #container h1
 {
-font-size: 20px;
+font-size: 30px;
 }    
 
 #container2
 {
-    width: 75%;
-    padding: 2em;
+    width: 70%;
+    padding: 1em;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid rgb(5, 5, 5);
     margin: 0 auto;
+    background-color: bisque;
 }
-
-#container h2
-{
-font-size: 20px;
-}    
